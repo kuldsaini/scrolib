@@ -1,2 +1,0 @@
-# scrolib
-GitHub Pages
